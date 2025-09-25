@@ -15,38 +15,80 @@ VTeam Studio is a creative tech community focused on:
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Organization Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VTeam-Studio&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTeam-Studio&layout=compact&theme=radical" height="165" />
-</p>
+<div align="center">
 
----
+### 🎯 Our Mission
+Building innovative open-source solutions that empower developers and creators worldwide.
 
-## 🔥 Contribution Streak
+### 🛠️ Technology Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VTeam-Studio&theme=radical&border_radius=10" />
-</p>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 📦 **[koishi-plugin-nfa-stock-monitor](https://github.com/VTeam-Studio/koishi-plugin-nfa-stock-monitor)**  
-  A KoiShi Plugin.
+<div align="center">
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 📦 [koishi-plugin-nfa-stock-monitor](https://github.com/VTeam-Studio/koishi-plugin-nfa-stock-monitor) | A KoiShi Plugin for stock monitoring | ![GitHub stars](https://img.shields.io/github/stars/VTeam-Studio/koishi-plugin-nfa-stock-monitor?style=flat-square) |
+| 🔧 [Project Template](https://github.com/VTeam-Studio) | Template repository for new projects | ![GitHub last commit](https://img.shields.io/github/last-commit/VTeam-Studio/koishi-plugin-nfa-stock-monitor?style=flat-square) |
+
+</div>
+
+---
+
+## 👥 Our Team
+
+<div align="center">
+
+| Role | Members | Focus Area |
+|------|---------|------------|
+| 🎯 **Core Developers** | [@VTeam-Studio](https://github.com/VTeam-Studio) | Open Source Development |
+| 🎨 **Design Team** | [@VTeam-Studio](https://github.com/VTeam-Studio) | UI/UX & Creative Design |
+| 📚 **Community** | [@VTeam-Studio](https://github.com/VTeam-Studio) | Documentation & Learning |
+
+</div>
 
 ---
 
 ## 🌐 Connect With Us
 
 <p align="center">
-  <a href="https://github.com/VTeam-Studio"><img src="https://img.shields.io/badge/GitHub-VTeam--Studio-181717?logo=github" /></a>
+  <a href="https://github.com/VTeam-Studio"><img src="https://img.shields.io/badge/GitHub-VTeam--Studio-181717?logo=github&style=for-the-badge" /></a>
+  <a href="https://github.com/VTeam-Studio"><img src="https://img.shields.io/badge/Organization-Profile-00C9A7?style=for-the-badge" /></a>
 </p>
 
 ---
 
+## 📊 Organization Activity
+
+<div align="center">
+
+### 🌟 Community Impact
+- 🚀 **Active Development**: Continuous innovation in open-source projects
+- 🤝 **Community Driven**: Collaborative development with global contributors  
+- 📚 **Knowledge Sharing**: Educational resources and documentation
+- 🔧 **Tool Creation**: Developer-friendly utilities and frameworks
+
+### 📈 Key Metrics
+- **Projects**: Multiple active repositories
+- **Contributors**: Growing community of developers
+- **Languages**: JavaScript, TypeScript, Python, and more
+- **Focus**: Web development, automation, and creative tools
+
+</div>
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VTeam-Studio&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VTeam-Studio&color=brightgreen&style=flat-square&label=Organization+Views" alt="Organization Views" />
 </p>
