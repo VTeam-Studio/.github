@@ -1,8 +1,12 @@
 # 👋 Welcome to VTeam Studio
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&random=false&width=435&lines=🚀+VTeam+Studio;🌟+Innovation+%26+Creativity;💻+Open+Source+for+Everyone" alt="Typing SVG" />
-</p>
+<div align="center">
+
+# 🚀 VTeam Studio
+## 🌟 Innovation & Creativity
+### 💻 Open Source for Everyone
+
+</div>
 
 ---
 
@@ -39,26 +43,13 @@ Building innovative open-source solutions that empower developers and creators w
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| 📦 [koishi-plugin-nfa-stock-monitor](https://github.com/VTeam-Studio/koishi-plugin-nfa-stock-monitor) | A KoiShi Plugin for stock monitoring | ![GitHub stars](https://img.shields.io/github/stars/VTeam-Studio/koishi-plugin-nfa-stock-monitor?style=flat-square) |
-| 🔧 [Project Template](https://github.com/VTeam-Studio) | Template repository for new projects | ![GitHub last commit](https://img.shields.io/github/last-commit/VTeam-Studio/koishi-plugin-nfa-stock-monitor?style=flat-square) |
+| 📦 [koishi-plugin-nfa-stock-monitor](https://github.com/VTeam-Studio/koishi-plugin-nfa-stock-checker) | A KoiShi Plugin for stock monitoring | ![GitHub last commit](https://img.shields.io/github/last-commit/VTeam-Studio/koishi-plugin-nfa-stock-checker?style=for-the-badge) |
+| 🔧 [WebPages](https://github.com/VTeam-Studio) | Build Static Webpages for fun | ![GitHub last commit](https://img.shields.io/github/last-commit/VTeam-Studio/Webpages?style=for-the-badge) |
 
 </div>
 
 ---
 
-## 👥 Our Team
-
-<div align="center">
-
-| Role | Members | Focus Area |
-|------|---------|------------|
-| 🎯 **Core Developers** | [@VTeam-Studio](https://github.com/VTeam-Studio) | Open Source Development |
-| 🎨 **Design Team** | [@VTeam-Studio](https://github.com/VTeam-Studio) | UI/UX & Creative Design |
-| 📚 **Community** | [@VTeam-Studio](https://github.com/VTeam-Studio) | Documentation & Learning |
-
-</div>
-
----
 
 ## 🌐 Connect With Us
 
